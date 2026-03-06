@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Empowering families with autism support services, safety resources, and life-saving programs. Get expert guidance to help your child thrive today.
+
+### Resources
+https://example.com/resources
+Access trusted autism resources including educational materials, therapy guides, and community support tools designed to help families navigate every challenge.
+
+### Programs & Safety
+https://example.com/programs-safety
+Protect your loved one with proven autism safety resources and wandering prevention programs. Discover tools, training, and emergency response solutions now.
+
+### Contact
+https://example.com/contact
+Need help navigating autism services? Reach out to our compassionate team for personalized guidance, program information, and family support resources.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
